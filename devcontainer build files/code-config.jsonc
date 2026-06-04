@@ -1,0 +1,12 @@
+{
+  "code-genie": {
+    "pull-request": {
+      "dev-container": "JUnit",
+      "custom-commands": [
+        {
+          "run-junit-tests": "cp /opt/run-junit.sh /usr/code/ && chmod +x /usr/code/run-junit.sh && /usr/code/run-junit.sh \"${code-folder}\" \"${result-json}\" --reject=ALWAYS"
+        }
+      ]
+    }
+  }
+}
