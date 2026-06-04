@@ -1,0 +1,10 @@
+{
+  "name": "JUnit",
+  "description": "This development container provides a full-featured Java 17 environment with Maven pre-installed. ",
+  "build": {
+        "dockerfile": "Dockerfile"
+   },
+   "ide": "false",
+  "image": "sarasonia/junit-container:1.1"
+  
+}
