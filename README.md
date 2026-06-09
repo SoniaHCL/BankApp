@@ -26,9 +26,9 @@ All Java source files and testing code are neatly organized inside the standard 
 
 There is a folder **devcontainer build files**, which contains reference files for the Code Genie environment:
 
-Dockerfile: Setup for Java 17, Maven, GCM, and tooling
-code-config.jsonc: JSON configuration instructing Code Genie on what to execute
-devcontainer.json: Environment-specific dev container configuration 
-run-junit.sh: Helper automation runner script for JUnit reporting
+- Dockerfile: Setup for Java 17, Maven, GCM, and tooling
+- code-config.jsonc: JSON configuration instructing Code Genie on what to execute
+- devcontainer.json: Environment-specific dev container configuration 
+- run-junit.sh: Helper automation runner script for JUnit reporting
 
 ---
