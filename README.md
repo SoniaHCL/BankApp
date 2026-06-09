@@ -2,7 +2,7 @@
 
 Welcome to **BankApp**, a simple financial sample application designed to handle deposits, withdrawals, and transaction tracking. 
 
-This repository serves as a practical demonstration of **Code Genie** in action, showcasing how it can be utilized to automate and enhance unit testing.
+This repository serves as a practical demonstration of **[Code Genie](https://help.hcl-software.com/devops/loop/2.0.1/docs/code/code_genie.html)**  in action, showcasing how it can be utilized to automate and enhance unit testing.
 Blog link:
 
 ---
